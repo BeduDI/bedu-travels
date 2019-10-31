@@ -69,3 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 Resuelve el issue
+
+Resuelve el issue 2
